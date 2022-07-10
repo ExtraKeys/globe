@@ -1,24 +1,38 @@
-![Git Folder](/gitfolder.png)
+# Globe Keyboard Shortcuts - iPadOS
 
-# David Blue's GitHub Repository Template
-- [WTF](https://davidblue.wtf/drafts/745BCB94-CE46-4509-A7E0-7566F8DDDF23.html)
+- [**GitHub Issue**](https://github.com/extratone/i/issues/215) 
+- [**Dedicated ExtraKeys Repository**](https://github.com/ExtraKeys/globe)
+- [Craft Link to Original Document](craftdocs://open?blockId=81CD045F-D74B-44D5-AED9-7C8A726DC1C5&spaceId=daf0cebc-473a-7ed9-b8f6-aa71c9afb5c6)
+- [Globe Keyboard Shortcuts - iPadOS - (Shared Craft Doc)](https://www.craft.do/s/cKrPcolCYEfQJ3)
+- [Globe Keyboard Shortcuts - iPadOS Jul 9, 2022 at 20:18](dayone://view?entryId=15DADDF7D8054B8189A8B57AA56D967B) (DayOne Entry)
+- [Adobe Document Share](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f13a1d8c-bbb5-4bd7-bca7-1cdc3e20da0a) ??
+- [Microsoft Office 365 Share Link](https://1drv.ms/w/s!AtC-4Wo4VrjJzlQmINzVepcKHZYP)
+- [Bear]()
+- [WTF](https://davidblue.wtf/drafts/F612829F-69FE-49CD-BAB6-6D2B700BE570.html)
 
-***Latte*** is a GitHub Repository Template created specifically for use by [David Blue](/DavidBlue.vcf) (that’s me, howdy,) but open to any and all use/misuse/defilement as per [its license](/LICENSE.md).
+---
 
-To be honest, I’m almost positive the name was really clever but I cannot for the life of me remember what the fuck I meant.
-
-At least as of...
-
-04092022-143149
-
-### Contact me for whatever reason
-
-- [Contact Card](https://davidblue.wtf/db.vcf)
-- [Telegram](https://t.me/extratone)
-- [Email](mailto:davidblue@extratone.com) 
-- [Twitter](https://twitter.com/NeoYokel)
-- [Mastodon](https://mastodon.social/@DavidBlue)
-- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
-
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+| **Action**               | **Command** |
+| ------------------------ | ----------- |
+| `System`                 |             |
+| Go to Home Screen        | 🌐 H        |
+| Search                   | ⌘ Spacebar  |
+| Switch App               | ⌘ TAB       |
+| Show Dock                | 🌐 D        |
+| Show App Library         | ⇧ 🌐 A      |
+| Quick Note               | 🌐 Q        |
+| Siri                     | 🌐 S        |
+| Control Center           | 🌐 C        |
+| Notification Center      | 🌐 N        |
+| Show Keyboard Shortcuts  | 🌐 M        |
+| `Multitasking`           |             |
+| App Switcher             | 🌐 ⇧        |
+| Show All Windows         | 🌐 ⇩        |
+| Previous App             | 🌐 ⇦        |
+| Next App                 | 🌐 ⇨        |
+| `Split View`             |             |
+| Tile Window Left         | ^ 🌐 ⇦      |
+| Tile Window Right        | ^ 🌐 ⇨      |
+| `Slide Over`             |             |
+| Move to Left Slide Over  | ⌥ 🌐 ⇦      |
+| Move to Right Slide Over | ⌥ 🌐 ⇨      |
